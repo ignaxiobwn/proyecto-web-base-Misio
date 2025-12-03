@@ -1,0 +1,10 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Node/build (por si acaso)
+node_modules/
+dist/
+
+# Docker
+*.log
