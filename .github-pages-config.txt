@@ -1,0 +1,20 @@
+CONFIGURACIÓN GITHUB PAGES
+==========================
+
+Para activar GitHub Pages y visualizar tu sitio web:
+
+1. Accede a: https://github.com/ignaxiobwn/proyecto-web-base-Misio/settings/pages
+
+2. En la sección "Build and deployment":
+   - Source: Deploy from a branch
+   - Branch: selecciona "copilot/add-page-visualization" → "/ (root)" → Save
+   
+3. Espera 2-3 minutos mientras GitHub despliega el sitio
+
+4. Tu sitio estará disponible en:
+   https://ignaxiobwn.github.io/proyecto-web-base-Misio/
+
+NOTA: Si prefieres usar la rama main/master, primero fusiona estos cambios
+y luego selecciona esa rama en la configuración.
+
+Archivo creado para facilitar la configuración inicial.
